@@ -1,0 +1,8 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\bin\Debug\appNotasDaTurma.exe.config
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\bin\Debug\appNotasDaTurma.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\bin\Debug\appNotasDaTurma.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\obj\Debug\appNotasDaTurma.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\obj\Debug\appNotasDaTurma.csproj.SuggestedBindingRedirects.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\obj\Debug\appNotasDaTurma.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\obj\Debug\appNotasDaTurma.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\Notas\appNotasDaTurma\appNotasDaTurma\obj\Debug\appNotasDaTurma.pdb
